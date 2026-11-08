@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mukhammat 👋</h1>
-<h3 align="center">Backend Developer · TypeScript / Node.js · ERPNext</h3>
+<h3 align="center">AI-Powered Full-Stack Developer · TypeScript / Node.js · ERPNext</h3>
 
 <p align="center">
-  I build backends for web services, SaaS products and Telegram bots:<br/>
-  ERP systems on ERPNext, REST APIs, databases, AI integrations, deployment on Cloudflare Workers and Docker.
+  Backend at the core, full stack with AI: I build web services, SaaS products and Telegram bots end to end,<br/>
+  from APIs and databases to frontends, ERP systems on ERPNext and deployment on Cloudflare Workers and Docker.
 </p>
 
 <p align="center">
@@ -51,7 +51,11 @@ I like building on **serverless** platforms: **Cloudflare Workers** (D1, KV, R2)
 In **2026** we launched our own products: **[Cafe Habibi](https://cafe.habibi-erp.com)** in **July 2026**
 and **[Madinah Scribe](https://madinahscribe.net)** in **September 2026**.
 
-Today I focus on **backend development with TypeScript and Node.js** and **ERP development on ERPNext**:
+My background is backend, but with AI tools I now work as an **AI-powered full-stack developer**: I build
+**frontends** as well as backends, and I handle the **DevOps basics** myself (servers, Docker, Nginx, CI/CD, deployment).
+I've been using **Ubuntu** as my main development environment since **2017**.
+
+Today I focus on **full-stack development with TypeScript and Node.js** and **ERP development on ERPNext**:
 SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 
 ---
@@ -61,7 +65,7 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 | Year | Milestone |
 |---|---|
 | **2016** | Started programming with Java (SoloLearn + self-practice) |
-| **2017** | IT STEP Academy: C++, then C# / ASP.NET (~1.5 years) |
+| **2017** | IT STEP Academy: C++, then C# / ASP.NET (~1.5 years); switched to Ubuntu as main dev environment |
 | **~2018–2019** | Freelance: frontend websites & landing pages, then paid PHP tasks |
 | **2019–2023** | Studied in Medina, Saudi Arabia; also lived in the UAE, Turkey, Egypt, Morocco, Tunisia, Jordan |
 | **2023–2025** | Corinno: ~1.5 years in a team of ~15 building a freelance marketplace |
@@ -69,7 +73,7 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 | **2025** | Freelance: Caravan (Jun–Sep), CRM system (Sep–Dec) and other client projects |
 | **Jul 2026** | Launched [Cafe Habibi](https://cafe.habibi-erp.com) |
 | **Sep 2026** | Launched [Madinah Scribe](https://madinahscribe.net) |
-| **Now** | Backend & ERP developer: TypeScript, Node.js, ERPNext / Frappe, SaaS, Telegram bots, AI integrations |
+| **Now** | AI-powered full-stack & ERP developer: TypeScript, Node.js, React, ERPNext / Frappe, DevOps basics |
 
 ---
 
@@ -81,8 +85,12 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" title="NestJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40" title="Ubuntu"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" title="Cloudflare"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" title="Supabase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
@@ -90,13 +98,14 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 </p>
 
 **Backend:** Node.js, TypeScript, Express, NestJS, Hono, Zod<br/>
+**Frontend:** React, Vue, HTML, CSS / SCSS<br/>
 **ERP:** ERPNext, Frappe Framework<br/>
 **Databases:** PostgreSQL, Drizzle ORM, Supabase, Cloudflare D1 / KV<br/>
 **Serverless:** Cloudflare Workers (D1, KV, R2), Supabase<br/>
-**Infrastructure:** Docker, Docker Compose<br/>
+**DevOps (basics):** Ubuntu / Linux, Docker, Docker Compose, Nginx, GitHub Actions, deployment scripts<br/>
 **AI tools:** Claude Code, Cursor<br/>
 **Other:** Telegram Bot API, OpenAPI, AI integrations<br/>
-**Also worked with:** PHP, HTML/CSS, C#, ASP.NET, C++, Java, Python
+**Also worked with:** PHP, C#, ASP.NET, C++, Java, Python
 
 ---
 
