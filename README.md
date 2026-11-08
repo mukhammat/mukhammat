@@ -6,6 +6,7 @@
 <p align="center">📍 Medina, Saudi Arabia · 🕒 UTC+3 · 💼 Open to remote work and freelance</p>
 
 <p align="center">
+  <a href="https://mukhammat.github.io"><img src="https://img.shields.io/badge/Portfolio-mukhammat.github.io-0E5A43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://t.me/abo_saarah"><img src="https://img.shields.io/badge/Telegram-@abo__saarah-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:dosnet2200@gmail.com"><img src="https://img.shields.io/badge/Email-dosnet2200@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
