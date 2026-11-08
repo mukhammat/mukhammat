@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mukhammat 👋</h1>
-<h3 align="center">AI-Powered Full-Stack Developer · TypeScript / Node.js · ERPNext</h3>
+<h3 align="center">Product Engineer · I build and launch AI products</h3>
 
-<p align="center">I build SaaS products, AI assistants, Telegram bots and mobile apps end to end.</p>
+<p align="center">Co-founder of <a href="https://madinahscribe.net">Madinah Scribe</a> and <a href="https://cafe.habibi-erp.com">Cafe Habibi</a> · Full-stack: TypeScript, Node.js, ERPNext</p>
 
 <p align="center">📍 Medina, Saudi Arabia · 🕒 UTC+3 · 💼 Open to remote work and freelance</p>
 
@@ -32,8 +32,8 @@
 
 | Product | What it is | Link |
 |---|---|---|
-| 📜 **Madinah Scribe** | AI transcription service: file, link or live recording → text | [madinahscribe.net](https://madinahscribe.net) |
-| ☕ **Cafe Habibi** | AI assistant that takes restaurant orders and sends them to staff | [cafe.habibi-erp.com](https://cafe.habibi-erp.com) |
+| 📜 **Madinah Scribe** · *co-founder* | AI transcription service: file, link or live recording → text | [madinahscribe.net](https://madinahscribe.net) |
+| ☕ **Cafe Habibi** · *co-founder* | AI assistant that takes restaurant orders and sends them to staff | [cafe.habibi-erp.com](https://cafe.habibi-erp.com) |
 | 🏠 **Realty SaaS** | Short-term rental management: bookings, finances, AI assistant, Telegram bot | [live](https://realty-saas.dosnet2200.workers.dev) · [repo](https://github.com/mukhammat/realty-saas) |
 | 📱 **Muslim Kids Stories** | Android app with audio stories for kids (Angular + Capacitor) | [Google Play](https://play.google.com/store/apps/details?id=com.muslimstory.app) |
 | 🧪 **IVPEPTIDE**, **Nadeck** | Peptide e-commerce stores (client projects) | [ivpeptide.com](https://ivpeptide.com) · [nadeck.net](https://nadeck.net) |
@@ -52,8 +52,11 @@
 
 ### 💼 Experience
 
-**Freelance · AI-Powered Full-Stack Developer** · *2025 – present*<br/>
-Own products (Madinah Scribe, Cafe Habibi), Muslim Kids Stories, [Caravan](https://github.com/mukhammat/caravan) (booking platform + CRM),
+**Co-founder · [Madinah Scribe](https://madinahscribe.net) & [Cafe Habibi](https://cafe.habibi-erp.com)** · *2026 – present*<br/>
+Building and launching AI products: an AI transcription service and an AI ordering assistant for restaurants.
+
+**Freelance · Product Engineer** · *2025 – present*<br/>
+Muslim Kids Stories, [Caravan](https://github.com/mukhammat/caravan) (booking platform + CRM),
 [CRM system](https://github.com/mukhammat/crm_bakhodur) (web + mobile), ERPNext customization for a burger restaurant, peptide stores.
 
 **Corinno · Backend Developer (Node.js)** · *2023 – 2025*<br/>
