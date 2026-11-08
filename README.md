@@ -154,6 +154,17 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 
 ---
 
+### 🌍 Languages
+
+🇷🇺 Russian · 🇸🇦 Arabic · 🇬🇧 English · 🇰🇿 Kazakh · 🇺🇿 Uzbek
+
+---
+
 ### 📫 Get in touch
 
-Open to job offers and freelance projects. Reach out via [GitHub](https://github.com/mukhammat).
+Open to job offers and freelance projects.
+
+<p align="left">
+  <a href="mailto:dosnet2200@gmail.com"><img src="https://img.shields.io/badge/Email-dosnet2200@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/mukhammat"><img src="https://img.shields.io/badge/GitHub-mukhammat-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+</p>
