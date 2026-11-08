@@ -48,6 +48,9 @@ I customized ERPNext and adapted it to the way the restaurant runs its business.
 used it for about six months, and then switched to **[Claude Code](https://claude.com/claude-code)**, which is now my main tool.
 I like building on **serverless** platforms: **Cloudflare Workers** (D1, KV, R2), **Supabase** and similar services.
 
+In **2026** we launched our own products: **[Cafe Habibi](https://cafe.habibi-erp.com)** in **July 2026**
+and **[Madinah Scribe](https://madinahscribe.net)** in **September 2026**.
+
 Today I focus on **backend development with TypeScript and Node.js** and **ERP development on ERPNext**:
 SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 
@@ -64,6 +67,8 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 | **2023–2025** | Corinno: ~1.5 years in a team of ~15 building a freelance marketplace |
 | **2025** | Started AI-assisted development: Cursor (~6 months), then Claude Code |
 | **2025** | Freelance: Caravan (Jun–Sep), CRM system (Sep–Dec) and other client projects |
+| **Jul 2026** | Launched [Cafe Habibi](https://cafe.habibi-erp.com) |
+| **Sep 2026** | Launched [Madinah Scribe](https://madinahscribe.net) |
 | **Now** | Backend & ERP developer: TypeScript, Node.js, ERPNext / Frappe, SaaS, Telegram bots, AI integrations |
 
 ---
@@ -94,6 +99,15 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 **Also worked with:** PHP, HTML/CSS, C#, ASP.NET, C++, Java, Python
 
 ---
+
+### 🌐 Live products
+
+| Product | Launched | Link |
+|---|---|---|
+| 📜 **Madinah Scribe** | Sep 2026 | [madinahscribe.net](https://madinahscribe.net) |
+| ☕ **Cafe Habibi** | Jul 2026 | [cafe.habibi-erp.com](https://cafe.habibi-erp.com) |
+| 🗂 **Nadeck** | | [nadeck.net](https://nadeck.net) |
+| 🧪 **IVPEPTIDE** | | [ivpeptide.com](https://ivpeptide.com) |
 
 ### 🚀 Featured projects
 
