@@ -7,113 +7,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mukhammat?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://t.me/abo_saarah"><img src="https://img.shields.io/badge/Telegram-@abo__saarah-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:dosnet2200@gmail.com"><img src="https://img.shields.io/badge/Email-dosnet2200@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
 ### 👨‍💻 About me
 
-I've been programming since **2016**. I started with **Java**, learning it through the SoloLearn app,
-then practicing on my laptop by solving all kinds of coding problems.
-
-In **2017** I enrolled at the **IT STEP Academy**. Over about a year and a half I studied
-**C++** first and then **C#** with **ASP.NET**. Before finishing the program I left the academy to start working
-and began taking on **freelance** projects.
-
-Along the way I learned **frontend development** (HTML, CSS, JavaScript) and built websites and landing pages for clients.
-Then a developer I knew suggested I learn **PHP**. It took me about two months, and he started giving me tasks:
-first practice assignments, then **real paid tasks** from the company he worked for. I kept doing that work
-until the end of **2019**.
-
-Separately, in **2019** I joined **[Kitap.kz](https://kitap.kz)**, a large company in Kazakhstan, and worked there
-as a **Laravel developer** in their development team.
-
-From **2019 to 2023** I lived and studied in **Medina, Saudi Arabia**. During those years I also spent time in
-the **UAE** (about a year), **Turkey** (3 months), **Egypt** (2 months), **Morocco**, **Tunisia** and **Jordan** (a month each).
-That experience taught me to adapt quickly and to work with people from different cultures.
-
-In **August 2023** I joined **Corinno**, a Russian company where a team of about 15 people was building
-a large **freelance marketplace**. I worked there for about a year and a half.
-
-After that I went back to **freelancing**:
-
-- **Jun – Sep 2025: [Caravan](https://github.com/mukhammat/caravan)** (client project). A monorepo with a property booking
-  platform (properties, bookings, Stripe payments, a Telegram bot with sign-up and chat with a manager)
-  and a CRM (orders, services, employees, Telegram notifications, real-time updates over WebSockets, Vue dashboard).
-- **Sep – Dec 2025: [CRM system](https://github.com/mukhammat/crm_bakhodur)** (client project). Task management with roles and permissions,
-  task assignment and statuses, push notifications via Firebase, a Telegram bot, a React web app and a React Native (Expo) mobile app.
-
-I also work with **ERP systems on [ERPNext](https://erpnext.com)** (Frappe Framework). For a **burger restaurant**
-I customized ERPNext and adapted it to the way the restaurant runs its business.
-
-**How I work.** Until 2025 I wrote all my code by hand. In **2025** I started using **Cursor** for AI-assisted development,
-used it for about six months, and then switched to **[Claude Code](https://claude.com/claude-code)**, which is now my main tool.
-I like building on **serverless** platforms: **Cloudflare Workers** (D1, KV, R2), **Supabase** and similar services.
-
-In **early 2026** (January – April) I built **[Muslim Kids Stories](https://play.google.com/store/apps/details?id=com.muslimstory.app)**, an Android app with Angular and Capacitor.
-
-In **2026** we launched our own products: **[Cafe Habibi](https://cafe.habibi-erp.com)**, an AI ordering assistant for restaurants,
-in **July 2026**, and **[Madinah Scribe](https://madinahscribe.net)**, an AI transcription service, in **September 2026**.
-
-My background is backend, but with AI tools I now work as an **AI-powered full-stack developer**: I build
-**frontends** as well as backends, and I handle the **DevOps basics** myself (servers, Docker, Nginx, CI/CD, deployment).
-I've been using **Ubuntu** as my main development environment since **2017**.
-
-Today I focus on **full-stack development with TypeScript and Node.js** and **ERP development on ERPNext**:
-SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
-
----
-
-### 🗓 Timeline
-
-| Year | Milestone |
-|---|---|
-| **2016** | Started programming with Java (SoloLearn + self-practice) |
-| **2017** | IT STEP Academy: C++, then C# / ASP.NET (~1.5 years); switched to Ubuntu as main dev environment |
-| **~2018–2019** | Freelance: frontend websites & landing pages, then paid PHP tasks |
-| **2019** | Laravel developer in the team at [Kitap.kz](https://kitap.kz) |
-| **2019–2023** | Studied in Medina, Saudi Arabia; also lived in the UAE, Turkey, Egypt, Morocco, Tunisia, Jordan |
-| **2023–2025** | Corinno: ~1.5 years in a team of ~15 building a freelance marketplace |
-| **2025** | Started AI-assisted development: Cursor (~6 months), then Claude Code |
-| **2025** | Freelance: Caravan (Jun–Sep), CRM system (Sep–Dec) and other client projects |
-| **Jan–Apr 2026** | Built Muslim Kids Stories, an Android app (Angular + Capacitor) |
-| **Jul 2026** | Launched [Cafe Habibi](https://cafe.habibi-erp.com) |
-| **Sep 2026** | Launched [Madinah Scribe](https://madinahscribe.net) |
-| **Now** | AI-powered full-stack & ERP developer: TypeScript, Node.js, React, ERPNext / Frappe, DevOps basics |
-
----
-
-### 🛠 Tech stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" title="NestJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40" title="Ubuntu"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" title="Cloudflare"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" title="Supabase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
-</p>
-
-**Backend:** Node.js, TypeScript, Express, NestJS, Hono, Zod<br/>
-**Frontend:** React, Vue, Angular, HTML, CSS / SCSS<br/>
-**Mobile:** Angular + Capacitor (Android), React Native (Expo)<br/>
-**ERP:** ERPNext, Frappe Framework<br/>
-**Databases:** PostgreSQL, Drizzle ORM, Supabase, Cloudflare D1 / KV<br/>
-**Serverless:** Cloudflare Workers (D1, KV, R2), Supabase<br/>
-**DevOps (basics):** Ubuntu / Linux, Docker, Docker Compose, Nginx, GitHub Actions, deployment scripts<br/>
-**AI tools:** Claude Code, Cursor<br/>
-**Other:** Telegram Bot API, OpenAPI, AI integrations<br/>
-**Also worked with:** PHP / Laravel, C#, ASP.NET, C++, Java, Python
+- 💻 Programming since **2016**; backend developer at heart (**Node.js / TypeScript**, earlier **PHP / Laravel**)
+- 🤖 Now an **AI-powered full-stack developer**: with **Claude Code** I build frontends, backends, mobile apps and handle DevOps basics
+- 🚀 I ship real products: **[Madinah Scribe](https://madinahscribe.net)**, **[Cafe Habibi](https://cafe.habibi-erp.com)**, **[Muslim Kids Stories](https://play.google.com/store/apps/details?id=com.muslimstory.app)** and client projects
+- ☁️ Love **serverless**: Cloudflare Workers (D1, KV, R2), Supabase; on **Ubuntu** since 2017
+- 🏢 Also build **ERP systems on ERPNext** (Frappe Framework)
+- 🌍 Lived and studied in **Saudi Arabia** and the **UAE**; speak 5 languages
 
 ---
 
@@ -150,20 +57,47 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
   </tr>
 </table>
 
-### 🚀 Featured projects
+---
+
+### 💼 Experience
+
+**Freelance · AI-Powered Full-Stack Developer** · *2025 – present*
+- **Own products:** [Cafe Habibi](https://cafe.habibi-erp.com) (AI ordering assistant for restaurants, Jul 2026), [Madinah Scribe](https://madinahscribe.net) (AI transcription service, Sep 2026)
+- **[Muslim Kids Stories](https://play.google.com/store/apps/details?id=com.muslimstory.app)** (Jan – Apr 2026): Android app with audio stories for kids (Angular + Capacitor)
+- **[Caravan](https://github.com/mukhammat/caravan)** (Jun – Sep 2025): property booking platform + CRM (Hono, PostgreSQL, Redis, Stripe, Telegram bot, Vue)
+- **[CRM system](https://github.com/mukhammat/crm_bakhodur)** (Sep – Dec 2025): tasks, roles & permissions, push notifications, web + mobile apps (React, React Native)
+- **ERPNext for a burger restaurant:** customized ERPNext for the restaurant's business processes
+- Client websites and stores: [IVPEPTIDE](https://ivpeptide.com), [Nadeck](https://nadeck.net)
+
+**Corinno · Backend Developer (Node.js)** · *Aug 2023 – early 2025 (~1.5 years)*
+- Backend development of a large **freelance marketplace** in a team of ~15 people
+
+**[Kitap.kz](https://kitap.kz) · Backend Developer (Laravel)** · *2019*
+- Backend development with PHP / Laravel in the company's development team
+
+**Freelance · Frontend & PHP Developer** · *~2018 – 2019*
+- Websites and landing pages for clients (HTML, CSS, JavaScript)
+- Paid PHP tasks for a company through a senior developer
+
+### 🎓 Education
+
+- **IT STEP Academy** · *2017 – ~2019*: C++, C# / ASP.NET (~1.5 years)
+- **Studies in Medina, Saudi Arabia** · *2019 – 2023*
+- Self-taught start with **Java** via SoloLearn · *2016*
+
+---
+
+### 🚀 More projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 🐪 [**caravan**](https://github.com/mukhammat/caravan) | Client project (Jun–Sep 2025): property booking platform with Stripe payments and a Telegram bot, plus a CRM with orders, employees and real-time WebSocket updates | TypeScript, Hono, PostgreSQL, Drizzle, Redis, grammY, Stripe, Vue |
-| 🍔 **ERPNext for a burger restaurant** | Client project: customized ERPNext and adapted it to a burger restaurant's business processes | ERPNext, Frappe Framework |
-| 💼 [**crm_bakhodur**](https://github.com/mukhammat/crm_bakhodur) | Client project (Sep–Dec 2025): CRM with tasks, roles & permissions, Firebase push notifications, Telegram bot, web and mobile apps | TypeScript, Hono, PostgreSQL, Drizzle, Redis, React, React Native (Expo), Docker |
 | 🌴 [**saudisukkari**](https://github.com/mukhammat/saudisukkari) · [**live**](https://saudisukkari.dosnet2200.workers.dev) | Website for Saudi Sukkari, an importer of products from Saudi Arabia | HTML, Cloudflare Workers |
 | 🚚 [**tow-track-server**](https://github.com/mukhammat/tow-track-server) | Backend for a tow truck service | TypeScript, Express, Zod, PostgreSQL, Drizzle, Docker |
 | 📋 [**RequestTrack**](https://github.com/mukhammat/RequestTrack) | Backend for a request tracking system | TypeScript, Express, Zod, PostgreSQL, Drizzle, Docker |
 | 🏨 [**hotel-ai-system**](https://github.com/mukhammat/hotel-ai-system) | Hotel management system with AI features | TypeScript |
 
 <details>
-<summary><b>More projects: e-commerce, Telegram bots, AI tools, templates and learning projects</b></summary>
+<summary><b>Show more: e-commerce, Telegram bots, AI tools, templates and learning projects</b></summary>
 
 #### 🧩 Other projects
 
@@ -195,12 +129,58 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 
 ---
 
-### 📊 GitHub stats
+### 🛠 Tech stack
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukhammat&show_icons=true&hide_border=true" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukhammat&layout=compact&hide_border=true" height="160" alt="Top languages"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" title="NestJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40" title="Ubuntu"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" title="Cloudflare"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" title="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
 </p>
+
+**Backend:** Node.js, TypeScript, Express, NestJS, Hono, Zod<br/>
+**Frontend:** React, Vue, Angular, HTML, CSS / SCSS<br/>
+**Mobile:** Angular + Capacitor (Android), React Native (Expo)<br/>
+**ERP:** ERPNext, Frappe Framework<br/>
+**Databases:** PostgreSQL, Drizzle ORM, Supabase, Cloudflare D1 / KV<br/>
+**Serverless:** Cloudflare Workers (D1, KV, R2), Supabase<br/>
+**DevOps (basics):** Ubuntu / Linux, Docker, Docker Compose, Nginx, GitHub Actions, deployment scripts<br/>
+**AI tools:** Claude Code, Cursor<br/>
+**Other:** Telegram Bot API, OpenAPI, AI integrations<br/>
+**Also worked with:** PHP / Laravel, C#, ASP.NET, C++, Java, Python
+
+---
+
+<details>
+<summary><b>🗓 My journey: the full timeline</b></summary>
+
+| Year | Milestone |
+|---|---|
+| **2016** | Started programming with Java (SoloLearn + self-practice) |
+| **2017** | IT STEP Academy: C++, then C# / ASP.NET (~1.5 years); switched to Ubuntu as main dev environment |
+| **~2018–2019** | Freelance: frontend websites & landing pages, then paid PHP tasks |
+| **2019** | Laravel backend developer at [Kitap.kz](https://kitap.kz) |
+| **2019–2023** | Studied in Medina, Saudi Arabia; also lived in the UAE (~1 year), Turkey, Egypt, Morocco, Tunisia, Jordan |
+| **2023–2025** | Corinno: Node.js backend developer, ~1.5 years in a team of ~15 building a freelance marketplace |
+| **2025** | Started AI-assisted development: Cursor (~6 months), then Claude Code |
+| **2025** | Freelance: Caravan (Jun–Sep), CRM system (Sep–Dec) and other client projects |
+| **Jan–Apr 2026** | Built Muslim Kids Stories, an Android app (Angular + Capacitor) |
+| **Jul 2026** | Launched [Cafe Habibi](https://cafe.habibi-erp.com) |
+| **Sep 2026** | Launched [Madinah Scribe](https://madinahscribe.net) |
+| **Now** | AI-powered full-stack & ERP developer: TypeScript, Node.js, React, ERPNext / Frappe, DevOps basics |
+
+</details>
 
 ---
 
