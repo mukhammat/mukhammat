@@ -33,8 +33,13 @@ That experience taught me to adapt quickly and to work with people from differen
 In **August 2023** I joined **Corinno**, a Russian company where a team of about 15 people was building
 a large **freelance marketplace**. I worked there for about a year and a half.
 
-After that I went back to **freelancing**: I built [**Caravan**](https://github.com/mukhammat/caravan),
-then a [**CRM system**](https://github.com/mukhammat/crm_bakhodur) for a client, along with other projects listed below.
+After that I went back to **freelancing**:
+
+- **Jun – Sep 2025: [Caravan](https://github.com/mukhammat/caravan)** (client project). A monorepo with a property booking
+  platform (properties, bookings, Stripe payments, a Telegram bot with sign-up and chat with a manager)
+  and a CRM (orders, services, employees, Telegram notifications, real-time updates over WebSockets, Vue dashboard).
+- **Sep – Dec 2025: [CRM system](https://github.com/mukhammat/crm_bakhodur)** (client project). Task management with roles and permissions,
+  task assignment and statuses, push notifications via Firebase, a Telegram bot, a React web app and a React Native (Expo) mobile app.
 
 Today I focus on **backend development with TypeScript and Node.js**: SaaS products, CRM systems, Telegram bots and AI-powered services.
 
@@ -49,7 +54,7 @@ Today I focus on **backend development with TypeScript and Node.js**: SaaS produ
 | **~2018–2019** | Freelance: frontend websites & landing pages, then paid PHP tasks |
 | **2019–2023** | Studied in Medina, Saudi Arabia; also lived in the UAE, Turkey, Egypt, Morocco, Tunisia, Jordan |
 | **2023–2025** | Corinno: ~1.5 years in a team of ~15 building a freelance marketplace |
-| **2025** | Back to freelance: Caravan, a CRM system and other client projects |
+| **2025** | Freelance: Caravan (Jun–Sep), CRM system (Sep–Dec) and other client projects |
 | **Now** | Backend developer: TypeScript, Node.js, SaaS, Telegram bots, AI integrations |
 
 ---
@@ -81,13 +86,13 @@ Today I focus on **backend development with TypeScript and Node.js**: SaaS produ
 
 | Project | Description | Stack |
 |---|---|---|
+| 🐪 [**caravan**](https://github.com/mukhammat/caravan) | Client project (Jun–Sep 2025): property booking platform with Stripe payments and a Telegram bot, plus a CRM with orders, employees and real-time WebSocket updates | TypeScript, Hono, PostgreSQL, Drizzle, Redis, grammY, Stripe, Vue |
+| 💼 [**crm_bakhodur**](https://github.com/mukhammat/crm_bakhodur) | Client project (Sep–Dec 2025): CRM with tasks, roles & permissions, Firebase push notifications, Telegram bot, web and mobile apps | TypeScript, Hono, PostgreSQL, Drizzle, Redis, React, React Native (Expo), Docker |
 | 🏠 [**realty-saas**](https://github.com/mukhammat/realty-saas) | SaaS for real estate agencies: properties, bookings, a Telegram AI assistant and scheduled broadcasts | TypeScript, Cloudflare Workers |
 | 🌴 [**saudisukkari**](https://github.com/mukhammat/saudisukkari) · [**live**](https://saudisukkari.dosnet2200.workers.dev) | Website for Saudi Sukkari, an importer of products from Saudi Arabia | HTML, Cloudflare Workers |
 | 🚚 [**tow-track-server**](https://github.com/mukhammat/tow-track-server) | Backend for a tow truck service | TypeScript, Express, Zod, PostgreSQL, Drizzle, Docker |
 | 📋 [**RequestTrack**](https://github.com/mukhammat/RequestTrack) | Backend for a request tracking system | TypeScript, Express, Zod, PostgreSQL, Drizzle, Docker |
 | 🏨 [**hotel-ai-system**](https://github.com/mukhammat/hotel-ai-system) | Hotel management system with AI features | TypeScript |
-| 🐪 [**caravan**](https://github.com/mukhammat/caravan) | Freelance project: Caravan | SCSS |
-| 💼 [**crm_bakhodur**](https://github.com/mukhammat/crm_bakhodur) | CRM system for a business | TypeScript, Hono |
 | 🧴 [**perfumeshop-server**](https://github.com/mukhammat/perfumeshop-server) + [**frontend**](https://github.com/mukhammat/perfumeshop-frontend) | Perfume e-commerce store: server and client | TypeScript, SCSS |
 | 🛒 [**storefront-kit**](https://github.com/mukhammat/storefront-kit) | Toolkit for quickly launching an online storefront | TypeScript |
 | 🔗 [**shortlink_server**](https://github.com/mukhammat/shortlink_server) | URL shortener service | Node.js |
