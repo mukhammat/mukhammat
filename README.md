@@ -120,9 +120,9 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 | 📜 **Madinah Scribe** | AI transcription service: upload a file, paste a link or record live and get the text. Pay-as-you-go coin balance, top-ups and a referral program | Sep 2026 | [madinahscribe.net](https://madinahscribe.net) |
 | ☕ **Cafe Habibi** | AI ordering assistant for cafes and restaurants: chats with customers, takes orders with modifiers, calculates delivery by zone and sends orders to staff to accept or decline | Jul 2026 | [cafe.habibi-erp.com](https://cafe.habibi-erp.com) |
 | 🏠 **Realty SaaS** | Property management for short-term rentals: availability grid, bookings, properties and buildings, clients, finances, team roles, an AI assistant, a website builder and a Telegram bot | 2026 | [repo](https://github.com/mukhammat/realty-saas) |
-| 🧪 **IVPEPTIDE** | E-commerce store for peptides with a cart, customer accounts, Telegram contact and a chat assistant | 2026 | [ivpeptide.com](https://ivpeptide.com) |
+| 🧪 **IVPEPTIDE** | Client project. E-commerce store for peptides with a cart, customer accounts, Telegram contact and a chat assistant | 2026 | [ivpeptide.com](https://ivpeptide.com) |
 | 📱 **Muslim Kids Stories** | Android app with stories for Muslim kids | 2026 | [Google Play](https://play.google.com/store/apps/details?id=com.muslimstory.app) |
-| 🗂 **Nadeck** | | | [nadeck.net](https://nadeck.net) |
+| 🗂 **Nadeck** | Client project | | [nadeck.net](https://nadeck.net) |
 
 <table>
   <tr>
