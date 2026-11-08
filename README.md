@@ -50,8 +50,8 @@ I like building on **serverless** platforms: **Cloudflare Workers** (D1, KV, R2)
 
 In **early 2026** (January – April) I built **[Muslim Kids Stories](https://play.google.com/store/apps/details?id=com.muslimstory.app)**, an Android app with Angular and Capacitor.
 
-In **2026** we launched our own products: **[Cafe Habibi](https://cafe.habibi-erp.com)** in **July 2026**
-and **[Madinah Scribe](https://madinahscribe.net)** in **September 2026**.
+In **2026** we launched our own products: **[Cafe Habibi](https://cafe.habibi-erp.com)**, an AI ordering assistant for restaurants,
+in **July 2026**, and **[Madinah Scribe](https://madinahscribe.net)**, an AI transcription service, in **September 2026**.
 
 My background is backend, but with AI tools I now work as an **AI-powered full-stack developer**: I build
 **frontends** as well as backends, and I handle the **DevOps basics** myself (servers, Docker, Nginx, CI/CD, deployment).
@@ -115,13 +115,23 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 
 ### 🌐 Live products
 
-| Product | Launched | Link |
-|---|---|---|
-| 📜 **Madinah Scribe** | Sep 2026 | [madinahscribe.net](https://madinahscribe.net) |
-| ☕ **Cafe Habibi** | Jul 2026 | [cafe.habibi-erp.com](https://cafe.habibi-erp.com) |
-| 📱 **Muslim Kids Stories** | 2026 | [Google Play](https://play.google.com/store/apps/details?id=com.muslimstory.app) |
-| 🗂 **Nadeck** | | [nadeck.net](https://nadeck.net) |
-| 🧪 **IVPEPTIDE** | | [ivpeptide.com](https://ivpeptide.com) |
+| Product | What it is | Launched | Link |
+|---|---|---|---|
+| 📜 **Madinah Scribe** | AI transcription service: upload a file, paste a link or record live and get the text. Pay-as-you-go coin balance, top-ups and a referral program | Sep 2026 | [madinahscribe.net](https://madinahscribe.net) |
+| ☕ **Cafe Habibi** | AI ordering assistant for cafes and restaurants: chats with customers, takes orders with modifiers, calculates delivery by zone and sends orders to staff to accept or decline | Jul 2026 | [cafe.habibi-erp.com](https://cafe.habibi-erp.com) |
+| 🏠 **Realty SaaS** | Property management for short-term rentals: availability grid, bookings, properties and buildings, clients, finances, team roles, an AI assistant, a website builder and a Telegram bot | 2026 | [repo](https://github.com/mukhammat/realty-saas) |
+| 🧪 **IVPEPTIDE** | E-commerce store for peptides with a cart, customer accounts, Telegram contact and a chat assistant | 2026 | [ivpeptide.com](https://ivpeptide.com) |
+| 📱 **Muslim Kids Stories** | Android app with stories for Muslim kids | 2026 | [Google Play](https://play.google.com/store/apps/details?id=com.muslimstory.app) |
+| 🗂 **Nadeck** | | | [nadeck.net](https://nadeck.net) |
+
+<table>
+  <tr>
+    <td align="center"><a href="https://madinahscribe.net"><img src="assets/madinah-scribe.jpg" width="200" alt="Madinah Scribe"/></a><br/><b>Madinah Scribe</b></td>
+    <td align="center"><a href="https://cafe.habibi-erp.com"><img src="assets/cafe-habibi.jpg" width="200" alt="Cafe Habibi"/></a><br/><b>Cafe Habibi</b></td>
+    <td align="center"><a href="https://github.com/mukhammat/realty-saas"><img src="assets/realty-saas.jpg" width="200" alt="Realty SaaS"/></a><br/><b>Realty SaaS</b></td>
+    <td align="center"><a href="https://ivpeptide.com"><img src="assets/ivpeptide.jpg" width="200" alt="IVPEPTIDE"/></a><br/><b>IVPEPTIDE</b></td>
+  </tr>
+</table>
 
 ### 🚀 Featured projects
 
@@ -131,7 +141,6 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 | 🐪 [**caravan**](https://github.com/mukhammat/caravan) | Client project (Jun–Sep 2025): property booking platform with Stripe payments and a Telegram bot, plus a CRM with orders, employees and real-time WebSocket updates | TypeScript, Hono, PostgreSQL, Drizzle, Redis, grammY, Stripe, Vue |
 | 🍔 **ERPNext for a burger restaurant** | Client project: customized ERPNext and adapted it to a burger restaurant's business processes | ERPNext, Frappe Framework |
 | 💼 [**crm_bakhodur**](https://github.com/mukhammat/crm_bakhodur) | Client project (Sep–Dec 2025): CRM with tasks, roles & permissions, Firebase push notifications, Telegram bot, web and mobile apps | TypeScript, Hono, PostgreSQL, Drizzle, Redis, React, React Native (Expo), Docker |
-| 🏠 [**realty-saas**](https://github.com/mukhammat/realty-saas) | SaaS for real estate agencies: properties, bookings, a Telegram AI assistant and scheduled broadcasts | TypeScript, Cloudflare Workers |
 | 🌴 [**saudisukkari**](https://github.com/mukhammat/saudisukkari) · [**live**](https://saudisukkari.dosnet2200.workers.dev) | Website for Saudi Sukkari, an importer of products from Saudi Arabia | HTML, Cloudflare Workers |
 | 🚚 [**tow-track-server**](https://github.com/mukhammat/tow-track-server) | Backend for a tow truck service | TypeScript, Express, Zod, PostgreSQL, Drizzle, Docker |
 | 📋 [**RequestTrack**](https://github.com/mukhammat/RequestTrack) | Backend for a request tracking system | TypeScript, Express, Zod, PostgreSQL, Drizzle, Docker |
