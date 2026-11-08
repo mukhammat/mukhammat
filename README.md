@@ -24,7 +24,7 @@ and began taking on **freelance** projects.
 Along the way I learned **frontend development** (HTML, CSS, JavaScript) and built websites and landing pages for clients.
 Then a developer I knew suggested I learn **PHP**. It took me about two months, and he started giving me tasks:
 first practice assignments, then **real paid tasks** from the company he worked for. I kept doing that work
-until the end of **2019**.
+until the end of **2019**. In **2019** I also worked as a **Laravel developer** in the team at **[Kitab.kz](https://kitab.kz)**.
 
 From **2019 to 2023** I lived and studied in **Medina, Saudi Arabia**. During those years I also spent time in
 the **UAE** (about a year), **Turkey** (3 months), **Egypt** (2 months), **Morocco**, **Tunisia** and **Jordan** (a month each).
@@ -69,6 +69,7 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 | **2016** | Started programming with Java (SoloLearn + self-practice) |
 | **2017** | IT STEP Academy: C++, then C# / ASP.NET (~1.5 years); switched to Ubuntu as main dev environment |
 | **~2018–2019** | Freelance: frontend websites & landing pages, then paid PHP tasks |
+| **2019** | Laravel developer in the team at [Kitab.kz](https://kitab.kz) |
 | **2019–2023** | Studied in Medina, Saudi Arabia; also lived in the UAE, Turkey, Egypt, Morocco, Tunisia, Jordan |
 | **2023–2025** | Corinno: ~1.5 years in a team of ~15 building a freelance marketplace |
 | **2025** | Started AI-assisted development: Cursor (~6 months), then Claude Code |
@@ -109,7 +110,7 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 **DevOps (basics):** Ubuntu / Linux, Docker, Docker Compose, Nginx, GitHub Actions, deployment scripts<br/>
 **AI tools:** Claude Code, Cursor<br/>
 **Other:** Telegram Bot API, OpenAPI, AI integrations<br/>
-**Also worked with:** PHP, C#, ASP.NET, C++, Java, Python
+**Also worked with:** PHP / Laravel, C#, ASP.NET, C++, Java, Python
 
 ---
 
