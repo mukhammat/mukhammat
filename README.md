@@ -42,7 +42,7 @@
 |---|---|---|---|
 | 📜 **Madinah Scribe** | AI transcription service: upload a file, paste a link or record live and get the text. Pay-as-you-go coin balance, top-ups and a referral program | Sep 2026 | [madinahscribe.net](https://madinahscribe.net) |
 | ☕ **Cafe Habibi** | AI ordering assistant for cafes and restaurants: chats with customers, takes orders with modifiers, calculates delivery by zone and sends orders to staff to accept or decline | Jul 2026 | [cafe.habibi-erp.com](https://cafe.habibi-erp.com) |
-| 🏠 **Realty SaaS** | Property management for short-term rentals: availability grid, bookings, properties and buildings, clients, finances, team roles, an AI assistant, a website builder and a Telegram bot | 2026 | [repo](https://github.com/mukhammat/realty-saas) |
+| 🏠 **Realty SaaS** | Property management for short-term rentals: availability grid, bookings, properties and buildings, clients, finances, team roles, an AI assistant, a website builder and a Telegram bot | 2026 | [realty-saas.dosnet2200.workers.dev](https://realty-saas.dosnet2200.workers.dev) · [repo](https://github.com/mukhammat/realty-saas) |
 | 🧪 **IVPEPTIDE** | Client project. E-commerce store for peptides with a cart, customer accounts, Telegram contact and a chat assistant | 2026 | [ivpeptide.com](https://ivpeptide.com) |
 | 📱 **Muslim Kids Stories** | Android app with audio stories for Muslim kids: age filters (3–6, 6–12+), catalog, search, personal library, "continue listening", light/dark theme and family accounts | 2026 | [Google Play](https://play.google.com/store/apps/details?id=com.muslimstory.app) |
 | 🧪 **Nadeck** | Client project. E-commerce store for peptides, similar to IVPEPTIDE | 2026 | [nadeck.net](https://nadeck.net) |
@@ -51,7 +51,7 @@
   <tr>
     <td align="center"><a href="https://madinahscribe.net"><img src="assets/madinah-scribe.jpg" width="160" alt="Madinah Scribe"/></a><br/><b>Madinah Scribe</b></td>
     <td align="center"><a href="https://cafe.habibi-erp.com"><img src="assets/cafe-habibi.jpg" width="160" alt="Cafe Habibi"/></a><br/><b>Cafe Habibi</b></td>
-    <td align="center"><a href="https://github.com/mukhammat/realty-saas"><img src="assets/realty-saas.jpg" width="160" alt="Realty SaaS"/></a><br/><b>Realty SaaS</b></td>
+    <td align="center"><a href="https://realty-saas.dosnet2200.workers.dev"><img src="assets/realty-saas.jpg" width="160" alt="Realty SaaS"/></a><br/><b>Realty SaaS</b></td>
     <td align="center"><a href="https://play.google.com/store/apps/details?id=com.muslimstory.app"><img src="assets/muslim-kids-stories.jpg" width="160" alt="Muslim Kids Stories"/></a><br/><b>Muslim Kids Stories</b></td>
     <td align="center"><a href="https://ivpeptide.com"><img src="assets/ivpeptide.jpg" width="160" alt="IVPEPTIDE"/></a><br/><b>IVPEPTIDE</b></td>
   </tr>
