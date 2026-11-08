@@ -45,7 +45,7 @@
 | 🏠 **Realty SaaS** | Property management for short-term rentals: availability grid, bookings, properties and buildings, clients, finances, team roles, an AI assistant, a website builder and a Telegram bot | 2026 | [repo](https://github.com/mukhammat/realty-saas) |
 | 🧪 **IVPEPTIDE** | Client project. E-commerce store for peptides with a cart, customer accounts, Telegram contact and a chat assistant | 2026 | [ivpeptide.com](https://ivpeptide.com) |
 | 📱 **Muslim Kids Stories** | Android app with audio stories for Muslim kids: age filters (3–6, 6–12+), catalog, search, personal library, "continue listening", light/dark theme and family accounts | 2026 | [Google Play](https://play.google.com/store/apps/details?id=com.muslimstory.app) |
-| 🗂 **Nadeck** | Client project | | [nadeck.net](https://nadeck.net) |
+| 🧪 **Nadeck** | Client project. E-commerce store for peptides, similar to IVPEPTIDE | 2026 | [nadeck.net](https://nadeck.net) |
 
 <table>
   <tr>
@@ -67,7 +67,7 @@
 - **[Caravan](https://github.com/mukhammat/caravan)** (Jun – Sep 2025): property booking platform + CRM (Hono, PostgreSQL, Redis, Stripe, Telegram bot, Vue)
 - **[CRM system](https://github.com/mukhammat/crm_bakhodur)** (Sep – Dec 2025): tasks, roles & permissions, push notifications, web + mobile apps (React, React Native)
 - **ERPNext for a burger restaurant:** customized ERPNext for the restaurant's business processes
-- Client websites and stores: [IVPEPTIDE](https://ivpeptide.com), [Nadeck](https://nadeck.net)
+- Peptide e-commerce stores for clients: [IVPEPTIDE](https://ivpeptide.com) and [Nadeck](https://nadeck.net)
 
 **Corinno · Backend Developer (Node.js)** · *Aug 2023 – early 2025 (~1.5 years)*
 - Backend development of a large **freelance marketplace** in a team of ~15 people
