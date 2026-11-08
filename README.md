@@ -113,6 +113,18 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 
 ---
 
+### 💡 What I can do for you
+
+- 🤖 **AI assistants for business**: chatbots that take orders, answer customers and book appointments (like Cafe Habibi)
+- 🚀 **SaaS & MVPs end to end**: from idea to a launched product with payments, admin panel and analytics
+- 💬 **Telegram bots & mini apps**: sales, bookings, notifications, CRM integrations
+- 🛒 **Online stores & websites**: catalogs, carts, payments, fast hosting on Cloudflare
+- 🏢 **CRM & ERP systems**: custom CRMs, ERPNext setup and customization for your business
+- 📱 **Mobile apps**: Android / iOS apps with Angular + Capacitor or React Native
+- ⚙️ **Backend & APIs**: REST APIs, databases, integrations, deployment and DevOps
+
+---
+
 ### 🌐 Live products
 
 | Product | What it is | Launched | Link |
@@ -121,15 +133,16 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 | ☕ **Cafe Habibi** | AI ordering assistant for cafes and restaurants: chats with customers, takes orders with modifiers, calculates delivery by zone and sends orders to staff to accept or decline | Jul 2026 | [cafe.habibi-erp.com](https://cafe.habibi-erp.com) |
 | 🏠 **Realty SaaS** | Property management for short-term rentals: availability grid, bookings, properties and buildings, clients, finances, team roles, an AI assistant, a website builder and a Telegram bot | 2026 | [repo](https://github.com/mukhammat/realty-saas) |
 | 🧪 **IVPEPTIDE** | Client project. E-commerce store for peptides with a cart, customer accounts, Telegram contact and a chat assistant | 2026 | [ivpeptide.com](https://ivpeptide.com) |
-| 📱 **Muslim Kids Stories** | Android app with stories for Muslim kids | 2026 | [Google Play](https://play.google.com/store/apps/details?id=com.muslimstory.app) |
+| 📱 **Muslim Kids Stories** | Android app with audio stories for Muslim kids: age filters (3–6, 6–12+), catalog, search, personal library, "continue listening", light/dark theme and family accounts | 2026 | [Google Play](https://play.google.com/store/apps/details?id=com.muslimstory.app) |
 | 🗂 **Nadeck** | Client project | | [nadeck.net](https://nadeck.net) |
 
 <table>
   <tr>
-    <td align="center"><a href="https://madinahscribe.net"><img src="assets/madinah-scribe.jpg" width="200" alt="Madinah Scribe"/></a><br/><b>Madinah Scribe</b></td>
-    <td align="center"><a href="https://cafe.habibi-erp.com"><img src="assets/cafe-habibi.jpg" width="200" alt="Cafe Habibi"/></a><br/><b>Cafe Habibi</b></td>
-    <td align="center"><a href="https://github.com/mukhammat/realty-saas"><img src="assets/realty-saas.jpg" width="200" alt="Realty SaaS"/></a><br/><b>Realty SaaS</b></td>
-    <td align="center"><a href="https://ivpeptide.com"><img src="assets/ivpeptide.jpg" width="200" alt="IVPEPTIDE"/></a><br/><b>IVPEPTIDE</b></td>
+    <td align="center"><a href="https://madinahscribe.net"><img src="assets/madinah-scribe.jpg" width="160" alt="Madinah Scribe"/></a><br/><b>Madinah Scribe</b></td>
+    <td align="center"><a href="https://cafe.habibi-erp.com"><img src="assets/cafe-habibi.jpg" width="160" alt="Cafe Habibi"/></a><br/><b>Cafe Habibi</b></td>
+    <td align="center"><a href="https://github.com/mukhammat/realty-saas"><img src="assets/realty-saas.jpg" width="160" alt="Realty SaaS"/></a><br/><b>Realty SaaS</b></td>
+    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.muslimstory.app"><img src="assets/muslim-kids-stories.jpg" width="160" alt="Muslim Kids Stories"/></a><br/><b>Muslim Kids Stories</b></td>
+    <td align="center"><a href="https://ivpeptide.com"><img src="assets/ivpeptide.jpg" width="160" alt="IVPEPTIDE"/></a><br/><b>IVPEPTIDE</b></td>
   </tr>
 </table>
 
@@ -137,7 +150,6 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 
 | Project | Description | Stack |
 |---|---|---|
-| 📱 **Muslim Kids Stories** · [**Google Play**](https://play.google.com/store/apps/details?id=com.muslimstory.app) | Android app (Jan–Apr 2026): stories for Muslim kids | Angular, Capacitor |
 | 🐪 [**caravan**](https://github.com/mukhammat/caravan) | Client project (Jun–Sep 2025): property booking platform with Stripe payments and a Telegram bot, plus a CRM with orders, employees and real-time WebSocket updates | TypeScript, Hono, PostgreSQL, Drizzle, Redis, grammY, Stripe, Vue |
 | 🍔 **ERPNext for a burger restaurant** | Client project: customized ERPNext and adapted it to a burger restaurant's business processes | ERPNext, Frappe Framework |
 | 💼 [**crm_bakhodur**](https://github.com/mukhammat/crm_bakhodur) | Client project (Sep–Dec 2025): CRM with tasks, roles & permissions, Firebase push notifications, Telegram bot, web and mobile apps | TypeScript, Hono, PostgreSQL, Drizzle, Redis, React, React Native (Expo), Docker |
@@ -145,27 +157,37 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 | 🚚 [**tow-track-server**](https://github.com/mukhammat/tow-track-server) | Backend for a tow truck service | TypeScript, Express, Zod, PostgreSQL, Drizzle, Docker |
 | 📋 [**RequestTrack**](https://github.com/mukhammat/RequestTrack) | Backend for a request tracking system | TypeScript, Express, Zod, PostgreSQL, Drizzle, Docker |
 | 🏨 [**hotel-ai-system**](https://github.com/mukhammat/hotel-ai-system) | Hotel management system with AI features | TypeScript |
+
+<details>
+<summary><b>More projects: e-commerce, Telegram bots, AI tools, templates and learning projects</b></summary>
+
+#### 🧩 Other projects
+
+| Project | Description | Stack |
+|---|---|---|
 | 🧴 [**perfumeshop-server**](https://github.com/mukhammat/perfumeshop-server) + [**frontend**](https://github.com/mukhammat/perfumeshop-frontend) | Perfume e-commerce store: server and client | TypeScript, SCSS |
 | 🛒 [**storefront-kit**](https://github.com/mukhammat/storefront-kit) | Toolkit for quickly launching an online storefront | TypeScript |
 | 🔗 [**shortlink_server**](https://github.com/mukhammat/shortlink_server) | URL shortener service | Node.js |
 | 🔌 [**my-socket**](https://github.com/mukhammat/my-socket) | Real-time communication over WebSockets | TypeScript |
 
-### 🤖 Telegram bots
+#### 🤖 Telegram bots
 
 - [**polufabrikati-bot**](https://github.com/mukhammat/polufabrikati-bot): bot for ordering semi-finished food products (Cloudflare Workers, Hono, OpenAPI)
 - [**dosnetsprint-bot**](https://github.com/mukhammat/dosnetsprint-bot): Telegram bot in TypeScript
 - [**abdella_tg_bot**](https://github.com/mukhammat/abdella_tg_bot) · [**dosmukhamed_bot**](https://github.com/mukhammat/dosmukhamed_bot) · [**mytelegram**](https://github.com/mukhammat/mytelegram)
 
-### 🧠 AI & automation
+#### 🧠 AI & automation
 
 - [**audio2textai**](https://github.com/mukhammat/audio2textai): speech-to-text transcription (Python)
 - [**FromScreenToAudioWithTranslate**](https://github.com/mukhammat/FromScreenToAudioWithTranslate): on-screen text → translation → speech
 - [**parsingv2**](https://github.com/mukhammat/parsingv2): data parser
 
-### 🧰 Templates & learning projects
+#### 🧰 Templates & learning projects
 
 - [**typescript-express-starter**](https://github.com/mukhammat/typescript-express-starter): TypeScript + Express starter template
 - [**StoreAPI**](https://github.com/mukhammat/StoreAPI) · [**TaskManager**](https://github.com/mukhammat/TaskManager) · [**Note-Taking-App**](https://github.com/mukhammat/Note-Taking-App) · [**Library**](https://github.com/mukhammat/Library) · [**php-db**](https://github.com/mukhammat/php-db) · [**learning**](https://github.com/mukhammat/learning)
+
+</details>
 
 ---
 
