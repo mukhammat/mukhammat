@@ -48,7 +48,7 @@ I customized ERPNext and adapted it to the way the restaurant runs its business.
 used it for about six months, and then switched to **[Claude Code](https://claude.com/claude-code)**, which is now my main tool.
 I like building on **serverless** platforms: **Cloudflare Workers** (D1, KV, R2), **Supabase** and similar services.
 
-In **early 2026** (January – April) I built **Muslim Kids Stories**, an Android app with Angular and Capacitor.
+In **early 2026** (January – April) I built **[Muslim Kids Stories](https://play.google.com/store/apps/details?id=com.muslimstory.app)**, an Android app with Angular and Capacitor.
 
 In **2026** we launched our own products: **[Cafe Habibi](https://cafe.habibi-erp.com)** in **July 2026**
 and **[Madinah Scribe](https://madinahscribe.net)** in **September 2026**.
@@ -119,6 +119,7 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 |---|---|---|
 | 📜 **Madinah Scribe** | Sep 2026 | [madinahscribe.net](https://madinahscribe.net) |
 | ☕ **Cafe Habibi** | Jul 2026 | [cafe.habibi-erp.com](https://cafe.habibi-erp.com) |
+| 📱 **Muslim Kids Stories** | 2026 | [Google Play](https://play.google.com/store/apps/details?id=com.muslimstory.app) |
 | 🗂 **Nadeck** | | [nadeck.net](https://nadeck.net) |
 | 🧪 **IVPEPTIDE** | | [ivpeptide.com](https://ivpeptide.com) |
 
@@ -126,7 +127,7 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 
 | Project | Description | Stack |
 |---|---|---|
-| 📱 **Muslim Kids Stories** | Android app (Jan–Apr 2026): stories for Muslim kids | Angular, Capacitor |
+| 📱 **Muslim Kids Stories** · [**Google Play**](https://play.google.com/store/apps/details?id=com.muslimstory.app) | Android app (Jan–Apr 2026): stories for Muslim kids | Angular, Capacitor |
 | 🐪 [**caravan**](https://github.com/mukhammat/caravan) | Client project (Jun–Sep 2025): property booking platform with Stripe payments and a Telegram bot, plus a CRM with orders, employees and real-time WebSocket updates | TypeScript, Hono, PostgreSQL, Drizzle, Redis, grammY, Stripe, Vue |
 | 🍔 **ERPNext for a burger restaurant** | Client project: customized ERPNext and adapted it to a burger restaurant's business processes | ERPNext, Frappe Framework |
 | 💼 [**crm_bakhodur**](https://github.com/mukhammat/crm_bakhodur) | Client project (Sep–Dec 2025): CRM with tasks, roles & permissions, Firebase push notifications, Telegram bot, web and mobile apps | TypeScript, Hono, PostgreSQL, Drizzle, Redis, React, React Native (Expo), Docker |
