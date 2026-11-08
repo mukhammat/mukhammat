@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mukhammat 👋</h1>
-<h3 align="center">Backend Developer · TypeScript / Node.js</h3>
+<h3 align="center">Backend Developer · TypeScript / Node.js · ERPNext</h3>
 
 <p align="center">
   I build backends for web services, SaaS products and Telegram bots:<br/>
-  REST APIs, databases, AI integrations, deployment on Cloudflare Workers and Docker.
+  ERP systems on ERPNext, REST APIs, databases, AI integrations, deployment on Cloudflare Workers and Docker.
 </p>
 
 <p align="center">
@@ -41,7 +41,11 @@ After that I went back to **freelancing**:
 - **Sep – Dec 2025: [CRM system](https://github.com/mukhammat/crm_bakhodur)** (client project). Task management with roles and permissions,
   task assignment and statuses, push notifications via Firebase, a Telegram bot, a React web app and a React Native (Expo) mobile app.
 
-Today I focus on **backend development with TypeScript and Node.js**: SaaS products, CRM systems, Telegram bots and AI-powered services.
+I also develop **ERP systems on [ERPNext](https://erpnext.com)** (Frappe Framework): setting up and customizing modules,
+building custom DocTypes, reports and business logic, and integrating ERPNext with other services.
+
+Today I focus on **backend development with TypeScript and Node.js** and **ERP development on ERPNext**:
+SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 
 ---
 
@@ -55,7 +59,7 @@ Today I focus on **backend development with TypeScript and Node.js**: SaaS produ
 | **2019–2023** | Studied in Medina, Saudi Arabia; also lived in the UAE, Turkey, Egypt, Morocco, Tunisia, Jordan |
 | **2023–2025** | Corinno: ~1.5 years in a team of ~15 building a freelance marketplace |
 | **2025** | Freelance: Caravan (Jun–Sep), CRM system (Sep–Dec) and other client projects |
-| **Now** | Backend developer: TypeScript, Node.js, SaaS, Telegram bots, AI integrations |
+| **Now** | Backend & ERP developer: TypeScript, Node.js, ERPNext / Frappe, SaaS, Telegram bots, AI integrations |
 
 ---
 
@@ -75,6 +79,7 @@ Today I focus on **backend development with TypeScript and Node.js**: SaaS produ
 </p>
 
 **Backend:** Node.js, TypeScript, Express, NestJS, Hono, Zod<br/>
+**ERP:** ERPNext, Frappe Framework<br/>
 **Databases:** PostgreSQL, Drizzle ORM, Cloudflare D1 / KV<br/>
 **Infrastructure:** Docker, Docker Compose, Cloudflare Workers<br/>
 **Other:** Telegram Bot API, OpenAPI, AI integrations<br/>
