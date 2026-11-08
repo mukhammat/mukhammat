@@ -26,7 +26,7 @@ Then a developer I knew suggested I learn **PHP**. It took me about two months, 
 first practice assignments, then **real paid tasks** from the company he worked for. I kept doing that work
 until the end of **2019**.
 
-Separately, in **2019** I joined **[Kitab.kz](https://kitab.kz)**, a large company in Kazakhstan, and worked there
+Separately, in **2019** I joined **[Kitap.kz](https://kitap.kz)**, a large company in Kazakhstan, and worked there
 as a **Laravel developer** in their development team.
 
 From **2019 to 2023** I lived and studied in **Medina, Saudi Arabia**. During those years I also spent time in
@@ -72,7 +72,7 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 | **2016** | Started programming with Java (SoloLearn + self-practice) |
 | **2017** | IT STEP Academy: C++, then C# / ASP.NET (~1.5 years); switched to Ubuntu as main dev environment |
 | **~2018–2019** | Freelance: frontend websites & landing pages, then paid PHP tasks |
-| **2019** | Laravel developer in the team at [Kitab.kz](https://kitab.kz) |
+| **2019** | Laravel developer in the team at [Kitap.kz](https://kitap.kz) |
 | **2019–2023** | Studied in Medina, Saudi Arabia; also lived in the UAE, Turkey, Egypt, Morocco, Tunisia, Jordan |
 | **2023–2025** | Corinno: ~1.5 years in a team of ~15 building a freelance marketplace |
 | **2025** | Started AI-assisted development: Cursor (~6 months), then Claude Code |
