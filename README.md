@@ -24,7 +24,10 @@ and began taking on **freelance** projects.
 Along the way I learned **frontend development** (HTML, CSS, JavaScript) and built websites and landing pages for clients.
 Then a developer I knew suggested I learn **PHP**. It took me about two months, and he started giving me tasks:
 first practice assignments, then **real paid tasks** from the company he worked for. I kept doing that work
-until the end of **2019**. In **2019** I also worked as a **Laravel developer** in the team at **[Kitab.kz](https://kitab.kz)**.
+until the end of **2019**.
+
+Separately, in **2019** I joined **[Kitab.kz](https://kitab.kz)**, a large company in Kazakhstan, and worked there
+as a **Laravel developer** in their development team.
 
 From **2019 to 2023** I lived and studied in **Medina, Saudi Arabia**. During those years I also spent time in
 the **UAE** (about a year), **Turkey** (3 months), **Egypt** (2 months), **Morocco**, **Tunisia** and **Jordan** (a month each).
