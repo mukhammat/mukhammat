@@ -6,6 +6,8 @@
   from APIs and databases to frontends, ERP systems on ERPNext and deployment on Cloudflare Workers and Docker.
 </p>
 
+<p align="center">📍 Medina, Saudi Arabia · 🕒 UTC+3 · 💼 Open to remote work and freelance</p>
+
 <p align="center">
   <a href="https://t.me/abo_saarah"><img src="https://img.shields.io/badge/Telegram-@abo__saarah-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:dosnet2200@gmail.com"><img src="https://img.shields.io/badge/Email-dosnet2200@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -192,7 +194,7 @@
 
 ### 📫 Get in touch
 
-Open to job offers and freelance projects.
+Open to job offers and freelance projects. Based in **Medina, Saudi Arabia** (UTC+3), working remotely worldwide.
 
 <p align="left">
   <a href="https://t.me/abo_saarah"><img src="https://img.shields.io/badge/Telegram-@abo__saarah-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
