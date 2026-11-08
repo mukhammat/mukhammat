@@ -30,8 +30,11 @@ From **2019 to 2023** I lived and studied in **Medina, Saudi Arabia**. During th
 the **UAE** (about a year), **Turkey** (3 months), **Egypt** (2 months), **Morocco**, **Tunisia** and **Jordan** (a month each).
 That experience taught me to adapt quickly and to work with people from different cultures.
 
-In **August 2023** I joined **Corinna**, a Russian company where a team of about 15 people was building
-a large **freelance marketplace**.
+In **August 2023** I joined **Corinno**, a Russian company where a team of about 15 people was building
+a large **freelance marketplace**. I worked there for about a year and a half.
+
+After that I went back to **freelancing**: I built [**Caravan**](https://github.com/mukhammat/caravan),
+then a [**CRM system**](https://github.com/mukhammat/crm_bakhodur) for a client, along with other projects listed below.
 
 Today I focus on **backend development with TypeScript and Node.js**: SaaS products, CRM systems, Telegram bots and AI-powered services.
 
@@ -45,7 +48,8 @@ Today I focus on **backend development with TypeScript and Node.js**: SaaS produ
 | **2017** | IT STEP Academy: C++, then C# / ASP.NET (~1.5 years) |
 | **~2018–2019** | Freelance: frontend websites & landing pages, then paid PHP tasks |
 | **2019–2023** | Studied in Medina, Saudi Arabia; also lived in the UAE, Turkey, Egypt, Morocco, Tunisia, Jordan |
-| **2023** | Joined Corinna: a team of ~15 building a freelance marketplace |
+| **2023–2025** | Corinno: ~1.5 years in a team of ~15 building a freelance marketplace |
+| **2025** | Back to freelance: Caravan, a CRM system and other client projects |
 | **Now** | Backend developer: TypeScript, Node.js, SaaS, Telegram bots, AI integrations |
 
 ---
@@ -82,6 +86,7 @@ Today I focus on **backend development with TypeScript and Node.js**: SaaS produ
 | 🚚 [**tow-track-server**](https://github.com/mukhammat/tow-track-server) | Backend for a tow truck service | TypeScript, Express, Zod, PostgreSQL, Drizzle, Docker |
 | 📋 [**RequestTrack**](https://github.com/mukhammat/RequestTrack) | Backend for a request tracking system | TypeScript, Express, Zod, PostgreSQL, Drizzle, Docker |
 | 🏨 [**hotel-ai-system**](https://github.com/mukhammat/hotel-ai-system) | Hotel management system with AI features | TypeScript |
+| 🐪 [**caravan**](https://github.com/mukhammat/caravan) | Freelance project: Caravan | SCSS |
 | 💼 [**crm_bakhodur**](https://github.com/mukhammat/crm_bakhodur) | CRM system for a business | TypeScript, Hono |
 | 🧴 [**perfumeshop-server**](https://github.com/mukhammat/perfumeshop-server) + [**frontend**](https://github.com/mukhammat/perfumeshop-frontend) | Perfume e-commerce store: server and client | TypeScript, SCSS |
 | 🛒 [**storefront-kit**](https://github.com/mukhammat/storefront-kit) | Toolkit for quickly launching an online storefront | TypeScript |
