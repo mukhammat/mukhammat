@@ -41,8 +41,8 @@ After that I went back to **freelancing**:
 - **Sep – Dec 2025: [CRM system](https://github.com/mukhammat/crm_bakhodur)** (client project). Task management with roles and permissions,
   task assignment and statuses, push notifications via Firebase, a Telegram bot, a React web app and a React Native (Expo) mobile app.
 
-I also develop **ERP systems on [ERPNext](https://erpnext.com)** (Frappe Framework): setting up and customizing modules,
-building custom DocTypes, reports and business logic, and integrating ERPNext with other services.
+I also work with **ERP systems on [ERPNext](https://erpnext.com)** (Frappe Framework). For a **burger restaurant**
+I customized ERPNext and adapted it to the way the restaurant runs its business.
 
 Today I focus on **backend development with TypeScript and Node.js** and **ERP development on ERPNext**:
 SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
@@ -92,6 +92,7 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 | Project | Description | Stack |
 |---|---|---|
 | 🐪 [**caravan**](https://github.com/mukhammat/caravan) | Client project (Jun–Sep 2025): property booking platform with Stripe payments and a Telegram bot, plus a CRM with orders, employees and real-time WebSocket updates | TypeScript, Hono, PostgreSQL, Drizzle, Redis, grammY, Stripe, Vue |
+| 🍔 **ERPNext for a burger restaurant** | Client project: customized ERPNext and adapted it to a burger restaurant's business processes | ERPNext, Frappe Framework |
 | 💼 [**crm_bakhodur**](https://github.com/mukhammat/crm_bakhodur) | Client project (Sep–Dec 2025): CRM with tasks, roles & permissions, Firebase push notifications, Telegram bot, web and mobile apps | TypeScript, Hono, PostgreSQL, Drizzle, Redis, React, React Native (Expo), Docker |
 | 🏠 [**realty-saas**](https://github.com/mukhammat/realty-saas) | SaaS for real estate agencies: properties, bookings, a Telegram AI assistant and scheduled broadcasts | TypeScript, Cloudflare Workers |
 | 🌴 [**saudisukkari**](https://github.com/mukhammat/saudisukkari) · [**live**](https://saudisukkari.dosnet2200.workers.dev) | Website for Saudi Sukkari, an importer of products from Saudi Arabia | HTML, Cloudflare Workers |
