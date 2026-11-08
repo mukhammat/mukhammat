@@ -165,6 +165,7 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 Open to job offers and freelance projects.
 
 <p align="left">
+  <a href="https://t.me/abo_saarah"><img src="https://img.shields.io/badge/Telegram-@abo__saarah-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:dosnet2200@gmail.com"><img src="https://img.shields.io/badge/Email-dosnet2200@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/mukhammat"><img src="https://img.shields.io/badge/GitHub-mukhammat-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
