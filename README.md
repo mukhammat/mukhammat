@@ -44,6 +44,10 @@ After that I went back to **freelancing**:
 I also work with **ERP systems on [ERPNext](https://erpnext.com)** (Frappe Framework). For a **burger restaurant**
 I customized ERPNext and adapted it to the way the restaurant runs its business.
 
+**How I work.** Until 2025 I wrote all my code by hand. In **2025** I started using **Cursor** for AI-assisted development,
+used it for about six months, and then switched to **[Claude Code](https://claude.com/claude-code)**, which is now my main tool.
+I like building on **serverless** platforms: **Cloudflare Workers** (D1, KV, R2), **Supabase** and similar services.
+
 Today I focus on **backend development with TypeScript and Node.js** and **ERP development on ERPNext**:
 SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 
@@ -58,6 +62,7 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
 | **~2018–2019** | Freelance: frontend websites & landing pages, then paid PHP tasks |
 | **2019–2023** | Studied in Medina, Saudi Arabia; also lived in the UAE, Turkey, Egypt, Morocco, Tunisia, Jordan |
 | **2023–2025** | Corinno: ~1.5 years in a team of ~15 building a freelance marketplace |
+| **2025** | Started AI-assisted development: Cursor (~6 months), then Claude Code |
 | **2025** | Freelance: Caravan (Jun–Sep), CRM system (Sep–Dec) and other client projects |
 | **Now** | Backend & ERP developer: TypeScript, Node.js, ERPNext / Frappe, SaaS, Telegram bots, AI integrations |
 
@@ -74,14 +79,17 @@ SaaS products, ERP and CRM systems, Telegram bots and AI-powered services.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" title="Cloudflare"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" title="Supabase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
 </p>
 
 **Backend:** Node.js, TypeScript, Express, NestJS, Hono, Zod<br/>
 **ERP:** ERPNext, Frappe Framework<br/>
-**Databases:** PostgreSQL, Drizzle ORM, Cloudflare D1 / KV<br/>
-**Infrastructure:** Docker, Docker Compose, Cloudflare Workers<br/>
+**Databases:** PostgreSQL, Drizzle ORM, Supabase, Cloudflare D1 / KV<br/>
+**Serverless:** Cloudflare Workers (D1, KV, R2), Supabase<br/>
+**Infrastructure:** Docker, Docker Compose<br/>
+**AI tools:** Claude Code, Cursor<br/>
 **Other:** Telegram Bot API, OpenAPI, AI integrations<br/>
 **Also worked with:** PHP, HTML/CSS, C#, ASP.NET, C++, Java, Python
 
